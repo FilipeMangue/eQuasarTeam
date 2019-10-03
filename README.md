@@ -1,2 +1,2 @@
 # eQuasarTeam
-Desenvolvimento em Quasar
+ Desenvolvimento em Quasar
